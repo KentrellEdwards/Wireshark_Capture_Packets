@@ -1,4 +1,4 @@
-# Wireshark Capture Packets
+# Wireshark Capture Packets <img align="center" width="40px" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x506-zshergic.png" />
 
 ## Objective
 Use Wireshark to capture packets on a certain interface and use filters to observe website traffic.
